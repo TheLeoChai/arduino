@@ -1,0 +1,12 @@
+FileExist   KEYWORD1
+gotoLineof   KEYWORD1
+xVal   KEYWORD1
+yVal   KEYWORD1
+nVal   KEYWORD1
+nValChange   KEYWORD1
+writeToFile   KEYWORD1
+SendOrder   KEYWORD1
+distanceFront   KEYWORD1
+distanceBack   KEYWORD1
+distanceLeft   KEYWORD1
+distanceRight   KEYWORD1
